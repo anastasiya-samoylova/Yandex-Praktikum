@@ -40,3 +40,5 @@
   - 50001–200000 — `'C'`;
   - 200001–1000000 — `'B'`;
  - Клиенты, цель кредита которых - операции с недвижимостью.
+
+[Тетрадка проекта](https://github.com/anastasiya-samoylova/Yandex-Praktikum/blob/main/n2_reliability_of_clients/reliability_of_clients.ipynb)
