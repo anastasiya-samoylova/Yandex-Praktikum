@@ -14,3 +14,4 @@
 - модель `RandomForestClassifier` с наилучшими гиперапараметрами была проверена на тестовой выборке и показала результат `Accuracy` - 0.7993779160186625;
 - также модель `RandomForestClassifier` проверенная на тестовой выборке была проверена на адекватность - для проверки использовалась модель `DummyClassifier`, которая показала результат `Accuracy` - 0.6842923794712286.
 
+[Тетрадка проекта](https://github.com/anastasiya-samoylova/Yandex-Praktikum/blob/main/n6_ml_telecom_classification/ml_telecom_classification.ipynb)
