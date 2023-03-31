@@ -31,3 +31,5 @@
 - удаленности от центра - за пределами радиуса в 8 км, чем дальше от центра, тем ниже стоимость,
 - этажа - у первых и поледних этажей цена за метр всегда ниже,
 - месяца размещения - наименьшая цена в "летний сезон".
+
+[Тетрадка проекта](https://github.com/anastasiya-samoylova/Yandex-Praktikum/blob/main/n4_research_price_of_estate/research_price_of_estate.ipynb)
