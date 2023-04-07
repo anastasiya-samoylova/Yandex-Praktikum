@@ -45,4 +45,4 @@ n_estimators: 501.
 
 
 
-[Тетрадка проекта]()
+[Тетрадка проекта](https://github.com/anastasiya-samoylova/Yandex-Praktikum/blob/main/n10_ml_forecast_taxi_orders/ml_forecast_taxi_orders.ipynb)
