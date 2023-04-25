@@ -70,4 +70,4 @@
 
 
 
-[Тетрадка проекта]()
+[Тетрадка проекта](https://github.com/anastasiya-samoylova/Yandex-Praktikum/blob/main/n12_ml_classification_churn_telecom/n12_ml_class_churn_telecom.ipynb)
